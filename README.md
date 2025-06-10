@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte de um **desafio da DIO Innovation** e s
 
 ## 💻 Tecnologias utilizadas
 
-* Python 3.x
+* Python 3.12
 * Módulo `datetime` (para registrar a data das transações)
 
 ## 📁 Estrutura do projeto
